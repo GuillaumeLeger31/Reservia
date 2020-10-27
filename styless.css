@@ -727,6 +727,16 @@ aside {
 
 }
 
+@media only screen and (min-width: 500px) and (max-width: 769px)
+{
+    
+    #bloc_page {
+        height: 1750px;
+        margin-left: 20px;
+    }
+
+}
+
 @media only screen and (max-width: 375px)
 
 {
