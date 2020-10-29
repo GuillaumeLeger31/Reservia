@@ -178,7 +178,7 @@ input {
     color: #0065FC;
 }
 
-.element11 {
+.FondFiltres {
     margin-top: -38.6px;
     margin-left: -3px;
     width: 35.5px;
@@ -251,7 +251,7 @@ input {
     border-color: #DEEBFF;
 }
 
-.titre5 {
+.titreFiltres {
     font-family: 'Raleway', sans-serif;
     margin-top: -18px;
     margin-left: 45px;
@@ -264,7 +264,7 @@ input {
     font-size: 20px;
 }
 
-#titre6 {
+#titreFiltre {
     font-family: 'Raleway', sans-serif;
     margin-top: 6px;
     margin-left: 52px;
@@ -319,13 +319,13 @@ input {
 
 /* Corps */
 
-.star {
+.EtoileHerbergement {
     margin-left: 10px;
     display: flex;
     margin-top: -2px;
 }
 
-.star2 {
+.EtoilePopulaires {
     margin-left: 125px;
     margin-top: 25px;
     display: flex;
@@ -433,46 +433,32 @@ aside {
     margin-left: -25px;
 }
 
-.titre3 {
+.titreHebergement {
     font-family: 'Raleway', sans-serif;
     margin-top: 4px;
     margin-left: 10px;
     font-size: 13px;
 }
 
-.titre4 {
+.Stitreherbergement {
     font-family: 'Raleway', sans-serif;
     margin-top: -5px;
     margin-left: 10px;
     font-size: 10px;
 }
 
-.titre1 {
+.titrePopulaires {
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
     margin-left: 125px;
     margin-top: -110px;
 }
 
-.titre2 {
+.StitrePopulaires {
     font-family: 'Raleway', sans-serif;
     font-size: 10px;
     margin-left: 125px;
     margin-top: -2px;
-}
-
-.star {
-    margin-top: -2px;
-    margin-left: 10px;
-}
-
-.star2 {
-    margin-top: 23px;
-    margin-left: 125px;    
-}
-.star3 {
-    margin-top: 20px;
-    margin-left: 125px;    
 }
 
 #titre13{
@@ -514,7 +500,7 @@ aside {
 
 }
 
-#titre17{
+#titreport{
     font-family: 'Raleway', sans-serif;   
     font-size: 13px;
 }
@@ -540,7 +526,7 @@ aside {
 
 }
 
-#titre18{
+#titrepomegues{
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
 }
@@ -564,7 +550,7 @@ aside {
 
 }
 
-#titre19{
+#titrefrioul{
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
 }
@@ -591,7 +577,7 @@ aside {
 
 }
 
-#titre20{
+#titrecalanques{
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
 }
@@ -616,7 +602,7 @@ aside {
 
 }
 
-#titre21{
+#titregarde{
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
 }
@@ -640,7 +626,7 @@ aside {
 
 }
 
-#titre22 {
+#titrelongchamp {
     font-family: 'Raleway', sans-serif;
     font-size: 13px;
 }
@@ -655,7 +641,7 @@ aside {
     height: 170px;
     display: flex;
 }
-.titre24 {
+.lienFooter {
     font-family: sans-serif;
     font-size: 12px; 
 }
@@ -675,7 +661,7 @@ aside {
     margin-left: 200px;
 }
 
-.titre23 { 
+.titreFooter { 
      font-size: 17px;
      font-family: 'Raleway';
 }
@@ -927,7 +913,7 @@ aside {
        
     /* Filtres */
 
-    .titre5 {
+    .titreFiltres {
         font-size: 0.9em;
     }
 
@@ -938,7 +924,7 @@ aside {
         margin-left: -26px;
     }
 
-    .element11 {
+    .FondFiltres {
         margin-top: -42px;
         margin-left: -3px;
         width: 40px;
@@ -1036,14 +1022,14 @@ aside {
 
     }
 
-    #titre3 {
+    #titreHebergement{
         font-family: 'Raleway', sans-serif;
         margin-top: 4px;
         margin-left: 10px;
         font-size: 13px;
     }
     
-    #titre4 {
+    #Stitreherbergement {
         font-family: 'Raleway', sans-serif;
         margin-top: -5px;
         margin-left: 10px;
@@ -1115,32 +1101,36 @@ aside {
         flex-direction: column;
     }
       
-    .titre1 {
+    .titrePopulaires {
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
         margin-left: 135px;
         margin-top: -110px;
     }
     
-    .titre2 {
+    .StitrePopulaires {
         font-family: 'Raleway', sans-serif;
         font-size: 10px;
         margin-left: 135px;
         margin-top: -2px;
     }
     
-    .star {
+    .EtoileHerbergement {
         margin-top: -5px;
         margin-left: 10px;
     }
     
-    .star2 {
+    .EtoilePopulaires {
         margin-top: 23px;
         margin-left: 135px;    
     }
-    .star3 {
-        margin-top: 20px;
-        margin-left: 135px;    
+    
+
+    #titreAfficherPlus{
+        font-family: 'Raleway', sans-serif;
+        margin-left: 10px;
+        font-size: 1.1em;
+        margin-top: 15px;
     }
     
     /* corps 2 */
@@ -1169,7 +1159,7 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre17{
+    #titreport{
         font-family: 'Raleway', sans-serif;   
         font-size: 13px;
     }
@@ -1187,7 +1177,7 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre18{
+    #titrepomegues{
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
     }
@@ -1204,7 +1194,7 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre19{
+    #titrefrioul{
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
     }
@@ -1222,7 +1212,7 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre20{
+    #titrecalanques{
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
     }
@@ -1240,7 +1230,7 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre21{
+    #titregarde{
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
     }
@@ -1257,12 +1247,12 @@ aside {
         border-top-right-radius: 15px;
     }
     
-    #titre22 {
+    #titrelongchamp {
         font-family: 'Raleway', sans-serif;
         font-size: 13px;
     }
 
-    #titre13{
+    #titreMarseille{
         font-family: 'Raleway', sans-serif;
         margin-left: 20px;
         font-size: 1.3em;
@@ -1270,12 +1260,7 @@ aside {
         width: 250px;
     }
 
-    #titre9{
-        font-family: 'Raleway', sans-serif;
-        margin-left: 10px;
-        font-size: 1.1em;
-        margin-top: 15px;
-    }
+    
 
     /* Footer */
 
