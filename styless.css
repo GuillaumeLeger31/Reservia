@@ -474,14 +474,14 @@ aside {
     border-radius:25px;
     margin-left: 0px;
     background-color:transparent;
-    width: 1085px;
+    width: 1105px;
     height: 410px;
     display: flex;
 }
 
 #acti1 {   
     text-align: center;  
-    width: 255px;
+    width: 285px;
     height: 400px;
     background-color: white;
     border-radius: 15px; 
@@ -507,7 +507,7 @@ aside {
 
 #acti2 {     
     text-align: center;
-    width: 255px;
+    width: 260px;
     height: 210px;
     background-color: white;
     border-radius: 15px; 
@@ -533,7 +533,7 @@ aside {
 
 #acti3 {     
     text-align: center;
-    width: 255px;
+    width: 260px;
     height: 160px;
     background-color: white;
     border-radius: 15px;  
@@ -557,7 +557,7 @@ aside {
 
 #acti4 {    
     text-align: center;
-    width: 255px;
+    width: 280px;
     height: 400px;
     background-color: white;
     border-radius: 15px;  
@@ -584,7 +584,7 @@ aside {
 
 #acti5 {     
     text-align: center;
-    width: 255px;
+    width: 260px;
     height: 185px;
     background-color: white;
     border-radius: 15px;  
@@ -609,12 +609,13 @@ aside {
 
 #acti6 {     
     text-align: center;
-    width: 255px;
+    width: 260px;
     height: 185px;
     background-color: white;
     border-radius: 15px;  
     box-shadow: 1px 1px 12px grey; 
 }
+
 .longchamp {
     
     width: 100%;
@@ -709,7 +710,6 @@ aside {
     #hover5 {
         display: none;
     }
-
 
 }
 
@@ -1134,6 +1134,7 @@ aside {
     }
     
     /* corps 2 */
+
 
     #article2
     {
