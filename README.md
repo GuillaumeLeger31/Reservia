@@ -3,4 +3,4 @@
 
 ## Installation et démarrage du Frontend
 
-* Lancer simplement `index.html`
+* Lancer simplement `reservia.html`
